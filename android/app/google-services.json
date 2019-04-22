@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "282886740557",
+    "firebase_url": "https://flight-86787.firebaseio.com",
+    "project_id": "flight-86787",
+    "storage_bucket": "flight-86787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282886740557:android:e42b572f4abafea7",
+        "android_client_info": {
+          "package_name": "com.mausam.flight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282886740557-ppg51lm891n6msjaoegejfj56h3ph5uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsA614-TAcvXTYpo_3iKsdCaPoQfZ4aNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282886740557-ppg51lm891n6msjaoegejfj56h3ph5uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

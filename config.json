@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "21f6a88daf13c62e5a70f5ef6ad9e23f",
+      "css": "chat",
+      "code": 59392,
+      "src": "websymbols"
+    },
+    {
+      "uid": "2cc97ae9bea37bcaf9fb726816c2b2a7",
+      "css": "cart",
+      "code": 59438,
+      "src": "linearicons"
+    },
+    {
+      "uid": "b75af8c5ac556bc6953f343d3ff5986b",
+      "css": "user",
+      "code": 59434,
+      "src": "linearicons"
+    },
+    {
+      "uid": "2b6e439ba053332e05a6d9b9f9944f44",
+      "css": "earth",
+      "code": 59475,
+      "src": "linearicons"
+    }
+  ]
+}
